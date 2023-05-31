@@ -4,5 +4,6 @@ Oi, eu sou Miguel!
 
 - 🔭  DESENVOLVEDOR FRONT END
 - 🌱  Estudando React
-- 👯  Me contate pelo Email: francomiguel79a@gmail.com
+- ✏️  Praticando...
+- 👯  Contate-me pelo Email: francomiguel79a@gmail.com
 
