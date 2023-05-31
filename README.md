@@ -7,3 +7,6 @@ Oi, eu sou Miguel!
 - ✏️  Praticando...
 - 👯  Contate-me pelo Email: francomiguel79a@gmail.com
 
+     
+     
+     
